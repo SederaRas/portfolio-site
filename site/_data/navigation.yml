@@ -1,0 +1,11 @@
+logo_image: /uploads/data-science-logo-icon-e1639744713707.webp
+menu__settings:
+  menu__items:
+    - title: Home
+      url: /
+    - title: About
+      url: /about/
+    - title: Projects
+      url: /projects/
+    - title: Resume
+      url: /resume/
